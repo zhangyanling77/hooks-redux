@@ -6,6 +6,18 @@
 yarn add react react-dom
 
 ```
+### 目录结构
+```javascript
+   hooks-redux
+    - src
+      - index.js
+      - redux.js
+    - package.json
+    - .gitignore
+    - public
+     - index.html
+```
+
 ### 实现hooks版redux
 ```javascript
 import React from 'react'
